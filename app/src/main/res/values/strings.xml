@@ -1,0 +1,5 @@
+<resources>
+    <string name = "app_name">Tic Tac Toe</string>
+    <string name = "my_score">My Score (o)</string>
+    <string name = "robot_score">Robot Score (x)</string>
+</resources>
